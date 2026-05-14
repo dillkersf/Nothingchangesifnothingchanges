@@ -1,0 +1,24 @@
+For this step in the project, set up the root folder of your website, including your HTML (one html file per page),
+basic CSS (including colors and fonts), and the p5.min.js fileLinks to an external site. (make sure you download the
+"p5.js.minLinks to an external site." file under "Download Single Files") in your JS folder.
+
+Checklist:
+
+All the pages of your website should be linked together in your HTML
+
+The text for your "about" page should be written and included on that page.
+
+Your CSS must have basic styling (colors and fonts)
+
+Your CSS must have basic layout for your "about" page, and any other HTML-only pages (not the JS ones)
+
+You should have any assets (images, GIFs, audio, etc) that you are using for the 1st interactive sketch in p5.js made,
+and included in an "assets" folder.
+
+You do not need to have any JS completed yet!
+
+Upload a .zip of your root folder to this assignment.
+
+<div>
+        <a href="about.html">about</a>
+    </div>
